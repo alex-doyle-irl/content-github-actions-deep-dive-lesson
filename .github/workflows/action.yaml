@@ -1,0 +1,8 @@
+name: Deploy Lamda
+
+on:
+  push:
+    branches:
+      -main
+      
+  
